@@ -22,7 +22,7 @@ The following expression calculates price categories:
 
 Call the [CriteriaOperator.RegisterCustomFunction](https://docs.devexpress.com/CoreLibraries/DevExpress.Data.Filtering.CriteriaOperator.RegisterCustomFunction(DevExpress.Data.Filtering.ICustomFunctionOperator)) method to register a custom function in your project. The following code snippet shows how to register the numeric group interval's function: 
 
-[Program.cs](./CS/Dashboard_FiscalFunctions/Program.cs):
+[Program.cs](./CS/Dashboard_NumericGroupInterval/Program.cs):
 ```csharp
 using System;
 using System.Windows.Forms
@@ -42,7 +42,7 @@ namespace Dashboard_NumericGroupInterval {
     }
 }
 ```
-[Program.vb](./VB/Dashboard_FiscalFunctions/Program.vb):
+[Program.vb](./VB/Dashboard_NumericGroupInterval/Program.vb):
 ```vb
 Imports DevExpress.Data.Filtering
 
