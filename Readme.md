@@ -8,7 +8,7 @@
 
 * [Form1.cs](./CS/Dashboard_NumericGroupInterval/Form1.cs) ([Form1.vb](./VB/Dashboard_NumericGroupInterval/Form1.vb))
 * [GetNumericGroupIntervalFunction.cs](./CS/Dashboard_NumericGroupInterval/GetNumericGroupIntervalFunction.cs) ([GetNumericGroupIntervalFunction.vb](./VB/Dashboard_NumericGroupInterval/GetNumericGroupIntervalFunction.vb))
-* [Program.cs](./CS/Dashboard_FiscalFunctions/Program.cs#L24) ([Program.vb](./VB/Dashboard_FiscalFunctions/Program.vb#L24))
+* [Program.cs](./CS/Dashboard_NumericGroupInterval/Program.cs#L24) ([Program.vb](./VB/Dashboard_NumericGroupInterval/Program.vb#L24))
 <!-- default file list end -->
 # Dashboard for WinForms - How to Calculate the Numeric Group Interval
 
@@ -26,7 +26,7 @@ The following expression calculates price categories:
 | --- | --- |
 | Price Category | ``` GetNumericGroupInterval([Freight], 100) ``` |
 
-Call the [CriteriaOperator.RegisterCustomFunction](https://docs.devexpress.com/CoreLibraries/DevExpress.Data.Filtering.CriteriaOperator.RegisterCustomFunction(DevExpress.Data.Filtering.ICustomFunctionOperator)) method to register a custom function in your project (see:  [Program.cs](./CS/Dashboard_FiscalFunctions/Program.cs#L24)/[Program.vb](./VB/Dashboard_FiscalFunctions/Program.vb#L24)). 
+Call the [CriteriaOperator.RegisterCustomFunction](https://docs.devexpress.com/CoreLibraries/DevExpress.Data.Filtering.CriteriaOperator.RegisterCustomFunction(DevExpress.Data.Filtering.ICustomFunctionOperator)) method to register a custom function in your project (see:  [Program.cs](./CS/Dashboard_NumericGroupInterval/Program.cs#L24)/[Program.vb](./VB/Dashboard_NumericGroupInterval/Program.vb#L24)). 
 
 ## Documentation
 
