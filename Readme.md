@@ -3,16 +3,18 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T1021367)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
+
+# Dashboard for WinForms - How to Calculate the Numeric Group Interval
+
+This example shows how to add a custom function in a client mode. The function allows you to group data by the specified criterion in the WinForm dashboard.
+
 <!-- default file list -->
-*Files to look at*:
+## Files to Look At
 
 * [Form1.cs](./CS/Dashboard_NumericGroupInterval/Form1.cs) ([Form1.vb](./VB/Dashboard_NumericGroupInterval/Form1.vb))
 * [GetNumericGroupIntervalFunction.cs](./CS/Dashboard_NumericGroupInterval/GetNumericGroupIntervalFunction.cs) ([GetNumericGroupIntervalFunction.vb](./VB/Dashboard_NumericGroupInterval/GetNumericGroupIntervalFunction.vb))
 * [Program.cs](./CS/Dashboard_NumericGroupInterval/Program.cs#L24) ([Program.vb](./VB/Dashboard_NumericGroupInterval/Program.vb#L24))
 <!-- default file list end -->
-# Dashboard for WinForms - How to Calculate the Numeric Group Interval
-
-This example shows how to add a custom function in a client mode. The function allows you to group data by the specified criterion in the WinForm dashboard.
 
 ## Overview
 
